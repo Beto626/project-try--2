@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <nav>
+      <a id="current link" href="index.html">Home<a/>
+      <a href="page2.html">career<a/>
+      <a href="page3.html">Downfall<a/>
+
+  </head>
+  <body>
+    <h1>Early Life Of D.Rose</h1>
+    <p>Derrick Rose was born and raised in Englewood, one of the most
+      dangerous places in south Chiago.His older siblings taught him the ins
+      and outs of basketball on the courts nearby their house.
+      As his talent for the sport grew he attracted more attention
+      and his mom and siblings restricted outside contact to him.
+      They feared this would hurt his chance by making it to the NBA
+      because he could of got into drugs or gangs.
+
+  </body>
+</html>
